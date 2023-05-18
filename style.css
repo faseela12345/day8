@@ -1,0 +1,55 @@
+.main{
+    width: 400px;
+    height:max-content ;
+    background-color: gray;
+    border: 12px;
+}
+.image{
+    width: 400px;
+   height :700px ;
+}
+.para{
+    font-size: 40px;
+    font-weight: bold;
+    margin: 0px;
+    text-align: center;
+}
+.para2{
+    font-size: 20px;
+    text-align: center;
+    color: white;
+}
+.para3{
+    font-size: 20px;
+    text-align: center;
+    color: white;
+}
+.head{
+    color: white;
+    font-size: 20px;
+}
+.main2,.main4{
+    width: 40PX;
+    color:pink;
+    display: flex;
+    align-items: center;
+}
+.b1,.b2,.b3,.b4{
+    width: 60px;
+    height: 50px;
+    padding-bottom: 10px;
+    display: flex;
+    align-items: center;
+    border-radius: 10px;
+}
+.b5,.b6{
+    width: 120px;
+    height: 60px;
+    padding-bottom: 10px;
+    display: flex;
+    align-items: center;
+    border-radius: 10px;
+    justify-content: left;
+    margin: 0 auto;
+}
+
